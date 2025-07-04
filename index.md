@@ -8,4 +8,4 @@ This is my personal site hosted with GitHub Pages.
 
 ---
 
-Icon by [Icons8](https://icons8.com")
+Github[https://github.com] Icon by [Icons8](https://icons8.com")
