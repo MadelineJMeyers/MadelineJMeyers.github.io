@@ -1,15 +1,15 @@
 # Welcome to My GitHub Showcase Page!
 
-I have created a Professional Self Assessment to help you understand what I have been working on and what steps I have taken to get here. Please view it [here](https://madelinejmeyers.github.io/ePortfolio/self_assessment.html).
+Hello! I'm Madeline Meyers, a Computer Science graduate passionate about software engineering and data analytics. This is my personal site hosted with GitHub Pages.
 
-Please check out my [Portfolio](https://madelinejmeyers.github.io/ePortfolio/)
+I have created an ePortfolio to showcase my projects, professional growth, and technical skills.
 
-If you want to see my newest major projects please check out my [Projects](https://madelinejmeyers.github.io/ePortfolio/projects.html) page.
+### Navigation
 
-This is my personal site hosted with GitHub Pages.
-
-
+*   [ePortfolio Home](https://madelinejmeyers.github.io/ePortfolio/) — Overview of my background, skills, and contact info.
+*   [Featured Projects](https://madelinejmeyers.github.io/ePortfolio/projects.html) — Technical overview of my key engineering and analytics projects.
+*   [Professional Self Assessment](https://madelinejmeyers.github.io/ePortfolio/self_assessment.html) — A reflection on my competencies and software engineering journey.
 
 ---
 
-[Github](https://github.com) icon by [Icons8](https://icons8.com")
+[GitHub](https://github.com) icon by [Icons8](https://icons8.com)
